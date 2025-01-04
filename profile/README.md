@@ -26,13 +26,13 @@
 - **服务器**：我们运营 CubeX Minecraft 服务器，提供多种游戏模式，包括生存、创造、小游戏等，满足你的各种需求！
 - **资源分享**：我们定期分享 Minecraft 相关的资源，如模组、插件、地图、材质包等，帮助你打造独一无二的游戏体验。
 - **社区互动**：我们建立了一个友好的社区，玩家可以在这里交流经验、分享作品、组织活动，一起探索 Minecraft 的无限可能。
-- **开发工具**：我们还开发了一些 Minecraft 相关的工具和插件，比如 [EcoBalancer](https://github.com/CubeX-MC/EcoBalancer)，帮助你更好地管理游戏内的经济系统。
+- **开发工具**：我们还开发了一些 Minecraft 相关的工具和插件，比如 [EcoBalancer](https://github.com/CubeX-MC/EcoBalancer) 和 [PowerGem](https://github.com/CubeX-MC/PowerGem)，帮助你更好地管理游戏内的经济系统。
 
 ---
 
 ## 🚀 加入我们！
 
-- **Discord**：加入我们的 Discord 服务器 ([https://discord.gg/your_discord_invite_link](https://discord.gg/QWKcSZFert))，和其他玩家一起聊天、组队、分享你的创意！
+- **Discord**：加入我们的 [Discord 服务器](https://discord.gg/QWKcSZFert)，和其他玩家一起聊天、组队、分享你的创意！
 - **GitHub**：在 GitHub 上关注我们，获取最新的项目更新和代码，一起参与开发！
 - **游戏**：直接加入我们的 Minecraft 服务器，体验 CubeX 的独特魅力！
 
@@ -51,7 +51,7 @@
 
 ## 📞 联系我们
 
-- **Discord**: [https://discord.gg/your_discord_invite_link](https://discord.gg/QWKcSZFert)
+- **Discord**: [https://discord.gg/QWKcSZFert](https://discord.gg/QWKcSZFert)
 - **服务器群**：470579814
 - **开服交流**：614479400
 - **吵架群**：713832786 (慎入！😅)
