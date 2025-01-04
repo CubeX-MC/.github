@@ -1,4 +1,4 @@
-# CubeX 🎮
+# **CubeX** 🎮
 
 [![Discord](https://img.shields.io/discord/xxxxxxxxxx.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/QWKcSZFert)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
