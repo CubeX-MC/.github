@@ -32,7 +32,7 @@
 
 ## 🚀 加入我们！
 
-- **Discord**：加入我们的 Discord 服务器 ([https://discord.gg/your_discord_invite_link](https://discord.gg/your_discord_invite_link))，和其他玩家一起聊天、组队、分享你的创意！
+- **Discord**：加入我们的 Discord 服务器 ([https://discord.gg/your_discord_invite_link](https://discord.gg/QWKcSZFert))，和其他玩家一起聊天、组队、分享你的创意！
 - **GitHub**：在 GitHub 上关注我们，获取最新的项目更新和代码，一起参与开发！
 - **游戏**：直接加入我们的 Minecraft 服务器，体验 CubeX 的独特魅力！
 
@@ -51,6 +51,9 @@
 
 ## 📞 联系我们
 
-- **Discord**: [https://discord.gg/your_discord_invite_link](https://discord.gg/your_discord_invite_link)
+- **Discord**: [https://discord.gg/your_discord_invite_link](https://discord.gg/QWKcSZFert)
+- **服务器群**：470579814
+- **开服交流**：614479400
+- **吵架群**：713832786 (慎入！😅)
 
 **我们期待你的加入！** 🎉 快来 CubeX，和我们一起创造属于你的 Minecraft 传奇吧！
