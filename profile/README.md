@@ -26,14 +26,14 @@
 - **服务器**：我们运营 CubeX MC 服务器（一周目怀旧服，二周目主服，以及其他小游戏服），以养老生存为核心，同时开放一些小游戏！
 - **资源分享**：我们分享 MC 相关资源，如模组、插件、地图、材质包等，帮助你开启自己的开服之旅。
 - **社区互动**：我们建立了一个友好的社区，玩家可以在这里交流经验、分享作品、组织活动，一起探索 Minecraft 的无限可能。
-- **开发工具**：我们还开发了一些 Minecraft 相关的工具和插件，比如 [Metro](https://github.com/CubeX-MC/Metro), [EcoBalancer](https://github.com/CubeX-MC/EcoBalancer), 和 [PowerGem](https://github.com/CubeX-MC/PowerGem)，为服务器提供更多可能性。
+- **开发工具**：我们还开发了一些 Minecraft 相关的工具和插件，比如 [Metro](https://github.com/CubeX-MC/Metro), [EcoBalancer](https://github.com/CubeX-MC/EcoBalancer), 和 [RuleGems](https://github.com/CubeX-MC/RuleGems)等，为服务器提供更多可能性。
 
 ---
 
 ## 🚀 加入我们！
 
 - **开服交流群**：614479400
-- **Discord**：加入我们的 [Discord 服务器](https://discord.gg/QWKcSZFert)，和其他玩家一起聊天、组队、分享你的创意！
+- **Discord**：加入我们的 [服务器DC服](https://discord.gg/QWKcSZFert)或[插件DC服](https://discord.com/invite/7tJeSZPZgv)，和其他玩家一起聊天、组队、分享你的创意！
 - **GitHub**：在 GitHub 上关注我们，获取最新的项目更新和代码，一起参与开发！
 - **游戏**：直接加入我们的 Minecraft 服务器，体验 CubeX 的独特魅力！
 
